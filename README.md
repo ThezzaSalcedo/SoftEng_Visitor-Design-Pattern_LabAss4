@@ -19,4 +19,4 @@ In an e-commerce furniture platform, different furniture items may require diffe
 
 
 ## UML Diagram
-![alt text](https://github.com/ThezzaSalcedo/SoftEng_Adapter-Pattern_LabAss3/blob/main/LabAssign3_UMLClass-Diagram.png)
+![alt text](https://github.com/ThezzaSalcedo/SoftEng_Visitor-Design-Pattern_LabAss4/blob/main/LabAssign4_UML-Class-Diagram.png)
